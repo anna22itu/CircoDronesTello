@@ -1,16 +1,14 @@
-# Drone Circus user interface
+# Drone Circus Tello
 
-Python 3.9 Required
+1. General Information
+   
 
-To initialize the program, 
-1. Connect to Tello Wi-Fi
-2. Execute circus.py
+2. Demo
 
 
-# [IMPORTANT!] If this error shows after installing requirements.txt:
 
-AttributeError: partially initialized module 'cv2' has no attribute 'gapi_wip_gst_GStreamerPipeline' (most likely due to a circular import)
+3. Installation
 
---> Delete all open-cv packages installed and then install the required version of open-cv again.
+In order to run and contribute to this module you need Pythion 3.7. We recommend PyCharm as IDE for development. To contribute to must follow the contribution protocol describen in the main repo of the Drone Engineering Ecosystem.
 
-It should be only ONE package of open-cv installed.
+4. Supporting materials
